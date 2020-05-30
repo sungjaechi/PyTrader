@@ -15,6 +15,7 @@ import tensorflow as tf
 
 ## Git Test
 ## Test 2
+## Commit this
 
 ui = uic.loadUiType("pytrader.ui")[0]
 
