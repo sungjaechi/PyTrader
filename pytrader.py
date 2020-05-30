@@ -14,6 +14,7 @@ from Kiwoom import Kiwoom, ParameterTypeError, ParameterValueError, KiwoomProces
 import tensorflow as tf
 
 ## Git Test
+## Test 2
 
 ui = uic.loadUiType("pytrader.ui")[0]
 
